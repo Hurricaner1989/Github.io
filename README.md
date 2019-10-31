@@ -1,2 +1,12 @@
-# github.io-b
-Homepage with Hugo template
+# 更新
+10/30/2019
+更换template，旧文章transfer中。
+
+...
+
+11/03/2017 
+个人网站正式投入使用。
+
+
+
+
