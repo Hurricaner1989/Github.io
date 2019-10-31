@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poem on Yiming Zuo</title>
+    <link>/categories/poem/</link>
+    <description>Recent content in Poem on Yiming Zuo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/poem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>钥匙</title>
+      <link>/post/2019/01/18/key/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/01/18/key/</guid>
+      <description>我保存着一把钥匙，
+是她远行前交给我的，
+当时我点头向她微笑，
+约定好归还的日期。
+&amp;nbsp;
+而如今，
+很多年过去了，
+我早已不知她在哪里。
+&amp;nbsp;
+19年01月18日 @Sunnyvale</description>
+    </item>
+    
+  </channel>
+</rss>
